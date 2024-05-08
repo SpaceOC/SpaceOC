@@ -1,6 +1,7 @@
 ### Hi there 👋
 
---- "Interesting Fact" ---\n
+--- "Interesting Fact" ---
+
 The first programming language I learned was Python 🐍
 ...
 
