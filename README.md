@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+--- "Interesting Fact" ---
+The first programming language I learned was Python 🐍
+...
+
+(There wasn't enough budget 🥶👍)
 <!--
 **SpaceOC/SpaceOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
