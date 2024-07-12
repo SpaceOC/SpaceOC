@@ -1,11 +1,9 @@
 ### Hi there 👋
 
---- "Interesting Fact" ---
+- My first programming language was Python. After that it was LUA & JS
+- I love playing computer games (Terraria, Unturned... and others)
+... There should have been something else here, but I spent my entire budget on NRC 💀
 
-The first programming language I learned was Python 🐍
-...
-
-(There wasn't enough budget 🥶👍)
 <!--
 **SpaceOC/SpaceOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
