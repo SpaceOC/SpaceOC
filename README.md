@@ -2,6 +2,7 @@
 
 - My first programming language was Python. After that it was LUA & JS
 - I love playing computer games (Terraria, Unturned... and others)
+
 ... There should have been something else here, but I spent my entire budget on NRC 💀
 
 <!--
