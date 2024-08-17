@@ -7,7 +7,7 @@
 
 Minecraft is my life! MINEEECRAAAFT!!!
 
-[![SpaceOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceOC&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SpaceOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceOC&theme=highcontrast&show_icons=tru3e)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceOC&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&langs_count=6)
 
 <!--
