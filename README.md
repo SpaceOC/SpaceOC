@@ -5,6 +5,8 @@
 
 ... There should have been something else here, but I spent my entire budget on NRC 💀
 
+Minecraft is my life! MINEEECRAAAFT!!!
+
 [![SpaceOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceOC&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceOC&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&langs_count=5)
 
