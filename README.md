@@ -1,3 +1,4 @@
+> You're not likely to find anything useful in my repositories.
 ### Hi there 👋
 
 - My first programming language was Python. After that it was LUA & JS
