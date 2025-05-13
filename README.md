@@ -1,4 +1,5 @@
-.
+Языки программирования на которых я когда либо программировал (от самого первого до последнего):
+Python -> LUA -> JS -> C++ -> Haxe
 
 [![SpaceOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceOC&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceOC&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&langs_count=6)
